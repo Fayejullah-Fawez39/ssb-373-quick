@@ -1,0 +1,175 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    border-bottom: 1px solid rgb(230, 230, 230);
+}
+.headerpart{
+    width: 90%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5%;
+    overflow: hidden;
+   
+}
+.logo
+{
+    width: 20%;
+    float: left;
+    margin-left: 5%;
+}
+
+nav{
+    
+    float: right;
+    
+}
+nav ul{
+    list-style: none;
+    overflow: hidden;
+    margin-top: 5px;
+}
+nav ul li{
+    float: left;
+    margin-left: 10px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #344770;
+    font-size: 21px;
+    
+}
+
+
+.content{
+    width: 70%;
+    margin-left: 15%;
+    text-align: center;
+}
+.content h1{
+    color: #0F2656;
+    font-size: 40px;
+    margin-top: 10px;
+}
+.content h2{
+    color: #008AFF;
+    margin-top: 5px;
+    font-size: 30px;
+}
+.content p{
+    font-size: 20px;
+    margin-top: 5px;
+}
+.feature{
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.feature img{
+    height: 400px;
+    
+}
+.project-content{
+    width: 50%;
+    margin-left: 25%;
+    overflow: hidden;
+}
+.leftcontent{
+    width: 50%;
+    float: left;
+}
+.leftcontent h1{
+    text-align: right;
+    font-size: 45px;
+    color: red;
+}
+.leftcontent p{
+    text-align: right;
+}
+.rightcontent{
+    width: 45%;
+    float: left;
+    margin-left: 5%;
+
+}
+.rightcontent h1{
+    font-size: 35px;
+}
+.service{
+
+    width: 90%;
+    margin-left: 5%;
+    overflow: hidden;
+    margin-top: 30px;
+}
+.service1{
+    width: 30%;
+    background-color: #FDEBED;
+    float: left;
+}
+.service1 img{
+    margin-left: 10%;
+    margin-top: 27px;
+}
+.service1 h1{
+    margin-top: 10px;
+    margin-left: 10%;
+}
+.service1 p{
+    margin-top: 10px;
+    margin-left: 10%;
+}
+.service2{
+    width: 30%;
+    background-color: #EBF9F4;
+    float: left;
+    margin-left:5%;
+}
+.service2 img{
+    margin-left: 10%;
+    margin-top: 10px;
+}
+.service2 h1{
+    margin-top: 10px;
+    margin-left: 10%;
+}
+.service2 p{
+    margin-top: 10px;
+    margin-left: 10%;
+}
+.service3{
+    width: 30%;
+    background-color: #FFF7E8;
+    float: right;
+    
+}
+.service3 img{
+    margin-left: 10%;
+    margin-top: 10px;
+}
+.service3 h1{
+    margin-top: 10px;
+    margin-left: 10%;
+}
+.service3 p{
+    margin-top: 10px;
+    margin-left: 10%;
+}
+footer{
+    width: 100%;
+    background-color: #008AFF;
+    margin-top: 30px;
+    text-align: center;
+    height: 50px;
+}
+footer p{
+    padding-top: 13px;
+    color: rgb(170, 168, 168);
+    font-size: 18px;
+}
+footer p span{
+    color: #fff;
+    font-size: 22px;
+}
